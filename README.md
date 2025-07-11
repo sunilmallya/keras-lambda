@@ -47,4 +47,3 @@ find ./ -name “*.so” | xargs strip
 find . -name \*.pyc -delete
 
 # Deploy on Lambda
-```
